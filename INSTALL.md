@@ -1,4 +1,4 @@
-# Installation
+# Installation Guide
 
 ## Compiled versions (Linux, Windows 10 and 11)
 
